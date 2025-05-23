@@ -1,0 +1,7 @@
+2024-04-30 15:33:24.445 CEST [811484] LOG:  démarrage de PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+2024-04-30 15:33:24.446 CEST [811484] LOG:  n'a pas pu lier IPv4 à l'adresse « 127.0.0.1 » : Adresse déjà utilisée
+2024-04-30 15:33:24.446 CEST [811484] ASTUCE :  Un autre postmaster fonctionne-t'il déjà sur le port 5432 ?
+	Sinon, attendez quelques secondes et réessayez.
+2024-04-30 15:33:24.447 CEST [811484] ATTENTION:  n'a pas pu créer le socket d'écoute pour « localhost »
+2024-04-30 15:33:24.447 CEST [811484] FATAL:  n'a pas pu créer de socket TCP/IP
+2024-04-30 15:33:24.448 CEST [811484] LOG:  le système de base de données est arrêté
